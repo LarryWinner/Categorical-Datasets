@@ -1,0 +1,23 @@
+Dataset: riskgamble.dat
+
+Source: D. Kahneman and A. Tversky (1984). "Choices,
+Values, and Frames", American Psychologist, Vol.35, 
+#4, pp. 341-350.
+
+Description: Results of Choices by 150 students with respect
+to gamble versus sure-thing, when framed as Gain versus Loss
+(paired experiment).
+
+Decision 1 Choose between:
+A. a sure gain of $240
+B. 25% chance for $1000 gain, 75% chance for $0 gain
+
+Decision 2 Choose Between:
+C. a sure loss of $750
+D. 75% chance to lose $1000, 25% chance to lose $0
+
+
+Variables/Columns
+Decision 1 choice   1   /* 1=A, 2=B
+Decision 2 choice   3   /* 1=C, 2=D
+Number of students  5-7

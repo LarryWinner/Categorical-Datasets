@@ -1,0 +1,15 @@
+Dataset:  subscript.dat
+
+Source: C.H. Wagner (1982). "Simpson's Paradox in Real Life", The 
+American Statistician, Vol. 36, #1, pp. 46-48
+
+Description: Classification of Subscription Renewals by month by 5
+subscription categories.
+
+Variables/Columns
+
+Month   1   /* 1=January, 2=February   */
+Subscription Category  16 /* 1=Gift, 2=Prev renew, 3=Direct mail, 
+                           4=Subscription Service, 5=Catalog Agent  */
+Renewal staus   24  /* 0=No, 1=Yes   */
+Count    28-32

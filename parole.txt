@@ -1,0 +1,16 @@
+Dataset:  parole.dat
+
+Source: S.A. Stouffer (1933), "Tests of Significance Applying Westergaard's
+Method of Expected Cases to Sociological Data", JASA, Vol28, #183,
+pp293.302
+
+Description: Incidence of Parole Violation, by punishment record
+and prior criminal record dor 2963 inmates of Illinois
+State penitentiary 1920-1928. Count data.
+
+Variables/Columns
+Punishment record in prison  11  /* 0=None, 1=1-2 times, 2=3 or more */
+Prior record   19  /* 0=none, 1=fine/probation, 2=reform school
+                    3=jail, 4=penitentiary
+Subsequent parole violation   27  /* 0=No, 1=Yes  */
+Number of inmates   32-35

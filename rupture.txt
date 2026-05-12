@@ -1,0 +1,13 @@
+Dataset:  rupture.dat
+
+Source: Brown and Pennello (2002), "Replacement Surgery and Silicone Gel
+Breast Implant Rupture", Journal of Women's Health & Gender-Based Medicine,
+Vol. 11, pp.255-264.
+
+Description: Self-Report and Surgical record of presence/absence
+of rupture/leak (matched pairs).
+
+Variables/Columns
+Self Report   1  /*  0=No rupture, 1=Rupture  */
+Surgical Record  3  /* 0=No rupture, 1=rupture  */
+Count  5-6

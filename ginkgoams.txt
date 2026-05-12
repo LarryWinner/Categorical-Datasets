@@ -1,0 +1,18 @@
+Dataset:  ginkgoams.dat
+
+Source: J.H. Gertsch, B. Basnyat, E.W. Johnson, J. Onopa, and P.S. Holck
+(2005). "Randomized, Double-Blind Placebo Controlled Comparison of
+Ginkgo Biloba and Acetazolamide for Prevention of Acute Mountain
+Sickness Among Himalayan Trekkers: the Prevention of High Altitude
+Illness Trial", BMJ, 328: pp 797-
+
+
+Description:  See Title
+
+Variables/Columns
+Trt Group   8  /* 1=Placebo, 2=acet only, 3=gb only, 4=acet+gb  */
+Acet Indicator   16  /*  1=Present, 0=ablsent  *?
+ginkgo indicator  24  /*  "           "   */
+Condition Outcome   32  /* "           "  */
+Count for AMS       38-40   
+Count for headache     46-48

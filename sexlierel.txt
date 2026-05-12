@@ -1,0 +1,16 @@
+Dataset:  sexlierel.dat
+
+Source: R.R. Clayton (1971). "Religiosity and Premarital Sexual
+Permissiveness: Elaboration of the Relationship and Debate,"
+Sociological Analysis, Vol. 32, #2, pp81-96
+
+Description: Tabulation among 4 scales of premarital sexual
+permissiveness, religiosity, propensity to lie and gender.
+
+Variables/Columns
+Gender   8    /* 1=Female, 2=Male  */
+Scale: 16  /* 1=Ritualistic, 2=Experiential, 3=Ideological, 4=Composite*/
+Premarital sexual permissiveness  24 /* 1=Low, 2=High */
+Propensity to Lie   32  /* 1=Lower, 2=Higher  */
+Religiosity   40  /*  1=Low, 2=High   */
+Count    46-48

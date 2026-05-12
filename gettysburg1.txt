@@ -1,0 +1,27 @@
+Dataset:  gettysburg1.dat
+
+Source:  www.CivilWarTalk.com
+
+Description: Initial Strength and casualties for the 9 divisions
+of the Army of the Potomac (Union Army) at the Battle of Gettysburg
+July 1-3,1863. (Meade vs Lee)
+Divisions:
+1-I Corps
+2-II Corps
+3-III Corps
+4-V Corps
+5-VI Corps
+6-XI Corps
+7-XII Corps
+8 Cavalry Corps
+9-Artillery Reserves
+Casualties are classified as  Killed,Wounded,Missing/Captured
+
+Variables/Columns
+Division   8
+Officer   16   /*  1=Officer, 0=Enlisted  */
+Total Soldiers   20-24
+Killed          28-32
+Wounded       36-40
+Captured/Missing   44-48
+Non-Casualty    52-56

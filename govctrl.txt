@@ -1,0 +1,12 @@
+Dataset:  govctrl.dat
+
+Source:  N. Dometrius (1979). "Measuring Gubernatorial Power",
+The Journal of Politics, Vol.41 #2, pp589-610
+
+Description: Cross-classification of administrators' views of
+the level of governor's agency control by strength of their state's governor.
+
+Variables/Columns:
+Agency Control   1  /*  1=Legislature  2=About same  3=Governor  */
+Governor's strength  3  /* 1=Very weak  2=weak  3=moderately strong 4=strong */
+Count  5-7

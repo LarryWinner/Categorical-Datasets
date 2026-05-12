@@ -1,0 +1,14 @@
+Dataset:  deathqst.dat
+
+Source: R.A. Kalish and D.K. Reynolds (1973). "Phenomenological
+Reality and Post-Death Contact", Journal for the Scientific Study
+of Religion, Vol. 12 #2, pp 209-221
+
+Description: Responses to whether person has felt the presence
+of anyone after the person had died, classified by ethnicity
+for 434 LA residents.
+
+Variables/Columns
+Ethnicity   8  /* 1=Black, 2=Japanese, 3=Mexican, 4=White  */
+Response   16  /* 1=Yes to feeling Presence   2=No  */
+Count   22-24

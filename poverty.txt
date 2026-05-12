@@ -1,0 +1,14 @@
+Dataset:  poverty.dat
+
+Source: Wenk and Hardesty (1993). "The Effects of Rural-to-Urban
+Migration on the Poverty Status of Youth in the 1980s", Rural
+Sociology, 58(1) pp. 76-92.
+
+Description: Counts of youth classifed by poverty status, gender,
+and race. 
+
+Variables/Columns
+Poverty 1   /* 0=No, 1=Yes  */
+Gender  3  /* 0=Male, 1=Female  */
+Race    5  /* 0=Black, 1=White  */
+Count  7-9

@@ -1,0 +1,13 @@
+Dataset:  handtime.dat
+
+Source:  Stanley Coren, Clare Porac(1977). "Fifty Centuries of 
+ Right-Handedness: The Historical Record", Science, Vol.198, #4317,pp.631-632.
+
+ Description:  Counts of Right-handed/Left-Handed humans based on art
+ from 16 periods in time (3000B.C.-A.D.1950)
+
+Variables/Columns
+Period     1-18
+Period #   24-25
+Handedness   33   /*  1=Right. 2=Left  */
+Count      39-41

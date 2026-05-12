@@ -1,0 +1,14 @@
+Dataset: pravachol.dat
+
+Source: J. Shepherd, S. Cobbe, I. Ford, et al (1995). "Prevention
+of Coronary Heart Disease with Pravastatin in Men with
+Hypercholesterolemia", New England Journal of Medicine,
+Vol. 333, pp 1301-1307
+
+Description: Incidence of coronary events during 5-year follow-up
+in patients from Pravachol clinical trial in Scotland.
+
+Variables/Columns
+Treatment  1  /* 1=Pravachol  2=Placebo
+Cardiac event 3  /* 1=Present  0=Absent
+Number of patients  5-8

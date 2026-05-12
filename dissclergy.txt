@@ -1,0 +1,15 @@
+Dataset:  dissclergy.dat
+
+Source: J.A. Struzzo (1970). "Professionalism and the Resolution of Authority
+Conflicts Among the Catholic Clergy," Sociological Analysis, Vol. 31, #2, pp.
+92-106.
+
+Description: Attributes related to differential responses to dissident clergy
+in diocese wrt birth control.
+
+Variables/Columns
+Professional Autonomy Index  8  /* 1=Low Autonomy, 2=Medium, 3=High  */
+Dissident type  16  /* 1=Public Dissidents, 2=Private Dissidents
+                   3=Tolerant (to dissent) conformists 4=Intolerant
+		   conformists*/
+Count          23-24

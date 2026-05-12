@@ -1,0 +1,13 @@
+Dataset: friday13.dat
+
+Source: S. Nayha(2002). "Traffic Deaths and Superstition on Friday the 13th"
+American Journal of Psychiatry, Vol. 159. pp 2110-2111.
+
+Description: Daily deaths by trsffic accidents for Friday the 13th and
+other Fridays by genderin Finland 1971-1997.
+
+Variables/Columns
+Gender   1  /*  1=Male 2=Female
+Friday type   3  /* 1=13th  2=Other
+Deaths      6-9
+Exposure    13-18   /* Person-days(*10^6)

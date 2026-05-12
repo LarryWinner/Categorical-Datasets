@@ -1,0 +1,12 @@
+Dataset: coldfish.dat
+
+Source: Margaret Storey (1937). "The Relation Between Normal Range and
+Mortality of Fishes Due to Cold at Sanibel Island, Florida," Ecology, Vol. 18,
+#1, pp. 10-26
+
+Description: Distribution of fish species and extent of injury due to cold
+temperatures at Sanibel Island, Florida.
+
+Variables/Columns
+Species Distribution  8  /* 1=Tropical, 2=Subtropical, 3=Temperate  */
+Extent of Injury   16  /* 1=Seldom, 2=Often, 3=Always  */

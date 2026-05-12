@@ -1,0 +1,34 @@
+Dataset: variety.dat
+
+Source: I. Simonson (1990). "The Effect of Purchase Quantity and Timing
+on Variety-Seeking Behavior," Journal of Marketing Research, Vol. 27,
+pp.150-162
+
+Description: Results of Variety seeking behavior in 2 conditions for single
+period use products. 33 subjects in condition 1, 34 (different) in condition 2
+
+Condition 1: Simultaneous Choice for Sequential Consumption (Buy 3 items at
+once)
+Condition 2: Sequential Choice (Purchase one item on each of 3 sequential
+daily store visits)
+
+Products (Subjects were given a list of choices per category):
+1=Yogurt
+2=Bread/bagel/rolls
+3=Cannd vegetables
+4=Fruit
+5=Snack
+6=Soft Drink/Juice
+7=Can of Soup
+8=Total across products
+
+Outcomes:
+H=High Variety (3 different selections from the category)
+M=Medium (One item chosen twice, different item the other)
+L=Low (one item selected each time)
+
+Variables/Columns
+Condition    8
+Product Category   16
+Variety Outcome  24   /*  1=H, 2=M, 3=L   */
+Number of Subjects  31-32

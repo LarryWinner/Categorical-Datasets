@@ -1,0 +1,13 @@
+Dataset:  olestra.dat
+
+Source: L. Cheskin, R. Miday, N. Zorich, and T. Filloon (1998).
+"Gastrointestinal Symptoms Following Consumption of Olestra or
+Regular Triglyceride Potato Chips", JAMA, 279: 150-152
+
+Description: Double-blind randomized trial in a Chicago movie
+theater comparing effects of olestra and TG chips on GI symptoms.
+
+Variables/Columns
+Chip Type 1  /* 1=olestra 2=TG
+GI outcome  3  /* 1=Present   0=absent
+Number of cases  5-7

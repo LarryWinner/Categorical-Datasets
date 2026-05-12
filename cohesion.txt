@@ -1,0 +1,20 @@
+Dataset:  cohesion.dat
+
+Source: T.A. Almy (1973), "Residential Location and Electoral Cohesion:
+The Pattern of Urban Political Conflict", The American Political Science
+Review, Vol. 67, #3, pp. 914-923
+
+Description: Comparison of Electoral cohesion (high/low) for cities classified
+by spatial residential location of social-class groups (segregated/integrated)
+on 5 referenda:
+1=Fluoridation
+2=Education
+3=Parks
+4=Civic Improvements
+5=Public works
+
+Variables/Columns
+Referendum   1
+location type   4  /*  1=segregated  2=integrated   
+Electoral cohesion within social classes    7   /*  1=low, 2=high
+Numer of cities   10

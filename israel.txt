@@ -1,0 +1,14 @@
+Dataset:  israel.dat
+
+Source: P. Burstein (1978). "Social Cleavages and Party Choice in
+Israel: A Log-Linear Analysis", The American Political Science Review,
+Vol. 72, #1, pp.96-109
+
+Description: Cross-classification of Israeli citizens by: occupation
+sector, type, and political party.
+
+Variables/Columns:
+Sector   8  /* 1=Private, 2=Histadrut, 3=Public  */
+Job Type  16  /* 1=Manual, 2=Lower nonmanual, 3=Professional/Managerial */
+Political Party  24 /* 1=Alignment, 2=Gahal, 3=NRP, 4=None */
+Count  31-32

@@ -1,0 +1,13 @@
+dataset:  psycparole.dat
+
+Source: M. Hakeem (1945). "Glueck Method of Parole Prediction
+Applied to 1861 Cases of Burglars", Journal of Criminal Law
+and Criminology, Vol. 36, #2, pp87-97
+
+Description: Classification of Psychiatric Prognosis and
+Parole adjustment for 1728 burglars placed on parole.
+
+Variables/Columns
+Psychiatric Prognosis  1  /* 1=Unfavorable, 2=Doubtful, 3=Favorable */
+Parole adjustment  3  /* 1=Major violation, 2=Minor violation, 3=success
+Number of cases  5-7

@@ -1,0 +1,21 @@
+Dataset:  religwar.dat
+
+Source: S. Pearce (2005). "Religious Rage: A Quantitative Analysis
+of the Intensity of Religious Conflicts," Terrorism and Political
+Violence, 17:333-352.
+
+Description: Classification of 278 territorial conflicts based
+on religious/non-religious and whether religion has high/low relevance
+(author explains how there can be non-religious/high relevance wars).
+Response is intensity:
+1= Low Intensity
+2=Somewhat Low
+3= Moderate
+4=Somewhat High
+5= High
+
+Variables/Columns:
+Intensity    8
+Religious   16  /* 1=Religious, 2=Non-Religious  */
+Relevance   24  /* 0=Low   1=High   */
+# of conflicts   30-32

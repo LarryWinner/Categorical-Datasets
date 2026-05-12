@@ -1,0 +1,13 @@
+Dataset:  micerad.dat
+
+Source: C.W. Hammond, et al. (1955). "The Effect of Streptomycin Therapy
+on Mice Irradiated with Fast Neutrons", Radiation Research, Vol2,#4,
+pp.354-360
+
+Description: 3-10 day survival of mice randomized to various
+neutron doses and streptomycin therapy or saline control.
+
+Variables/Columns
+Neutron Dose   6-8
+Treatment  16  /* 1=Streptomycin, 0=saline control */
+3-10 Day Death  24  /*  1=Died, 0=Lived  */`

@@ -1,0 +1,14 @@
+Dataset:  birdflutest.dat
+
+Source: X. Xu, et al (2005). "Latex Agglutination Test for Monitoring
+Antibodies to Avian Influenza Virus Subtype H5N1", Journal of 
+Clinical Microbiology. Vol. 43 #4, pp1953-1955.
+
+Description: Compaison of a simpler Latex agglutination test (LAT) with
+more laborious hemagglutination inhibition (HI) assay, a current
+gold standard for identifying bird flu.
+
+Columns/Variables
+HI Result   1   /* 1=Positive   0=Negative
+LAT Result  3  /* 1=Positive    0=Negative
+Number of cases  5-7

@@ -1,0 +1,12 @@
+Dataset:  blood1.dat
+
+Source:  K.L.G. Goldsmith, I.M. Lewis (1958). "A Preliminary Investigation
+of the Blood Groups of the Sad Bondsmen of Northern Somaliland",
+Man, Vol. 58, pp. 188-190.
+
+Description: Blood types by two groups (1=Tumaal/Midgaan, 2=Somalis).
+
+Variables/Columns:
+Group  1  /* 1=Tumaal/Midgaan  2=Somali  */
+Blood Type 4  /* 1=O,  2=A1,  3=B,  4=A2+A1B+A2B  */
+Count     7-9

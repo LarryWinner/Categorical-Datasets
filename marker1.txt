@@ -1,0 +1,15 @@
+Dataset:   marker1.dat
+
+Source: D.R. Shaffer, C. Sadowski (1975), "The Table is Mine: 
+Respect for Marked Barroom Tables as a Function of Gender
+of Spatial Marker and Desirability of Locale", Sociometry,
+Vol. 38 #3, pp. 408-419
+
+Description: Results of Field Experiment Involving
+Marker Type (Male, Female, None) and Gender of 
+Table Invader (Male, Female,None) in a college bar.
+
+Variables/Columns
+Marker Type   1  /* 1=Male, 2=Female,  3=None
+Invader Type  3  /* 1=Male, 2=Female,  3=None
+Count         5-6

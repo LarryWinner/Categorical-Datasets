@@ -1,0 +1,18 @@
+Dataset:  donner.dat
+
+Source: Kristin Johnson's killer webpage @ www.utahcrossing.org 
+
+Description: Statistics regarding the 89 members of Donner party
+1846-1847.
+
+
+Variables/Columns
+Name  1-27
+Age   29-30
+Gender   31
+Survive   46   /*  1=Yes, 0=No  */
+Date of death   49-58   /* mmddyyyy10.  */
+rescue party   67     /*  among survivors  */
+date joined party  72-81   /* mmddyyyy10. */
+trapped in mountains  90  /* 1=Yes, 0=no */
+camp  91-92     /* LC=Lake Camp, AC=Alden Creek  (mid december)  */

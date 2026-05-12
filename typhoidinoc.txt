@@ -1,0 +1,20 @@
+Dataset: typhoidinoc.dat
+
+Source: G.D. Maynard (1909). "Statistical Study of Anti-Typhoid Innoculation,"
+Biometrika, Vol. 6, #4, pp. 366-375.
+
+Description: Results of innoculation versus no innoculation for typhoid
+in 6 groups of soldiers.
+Locations:
+1=Stations Abroad
+2=Indian Stations
+3=17th Lancers
+4=Coldstream Guards
+5=Transvaal
+6=7 Large Indian stations
+
+Variables/Columns
+Location    8
+Innoculation  16  /* 1=Yes, 0=No  */
+Typhoid   24   /* 1=Attacked, 0=Not attacked  */
+Count 26-32

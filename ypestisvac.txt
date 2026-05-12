@@ -1,0 +1,14 @@
+Dataset:  ypestisvac.dat
+
+Source: TE Rocke, et al (2004). "Recombinant F1-V Fusion Protein Protects
+Black-Footed Ferrets (Mustela Nigripes) Against Virulent Yersinia Pestis
+Infection", Journal of Zoology and Wildlife Medicine, Vol. 135, #2,
+pp 142-146.
+
+Description: Small sample experiment to test a vaccine for sylvatic plague
+caused by Y. Pestis in Black-Footed Ferrets.
+
+Variables/Columns
+Trt Group   1   /* 1=F1-V vaccine    0=Placebo
+Outcome    2   /* 1=Survive   0=Die 
+Count   5

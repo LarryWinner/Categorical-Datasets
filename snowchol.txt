@@ -1,0 +1,13 @@
+Dataset:  snowchol.dat
+
+Source: W.H. Frost (1936). Appendix to "Snow on Cholera", London,
+Oxford University Press
+
+Description: Death/Survival in cholera in 19th century London
+by district and water company.
+
+Variables/Columns
+District   1-25
+Company   34  /*  1=Southwark & Vauxhall   2=Lambeth  */
+Death Indicator   42   /* 0=survive,,, 1=Die frrom cholera  */
+Count (number cases)   46-50

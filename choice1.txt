@@ -1,0 +1,45 @@
+Dataset:  choice1.csv
+
+Source: R. Thaler (1985). "Mental Accounting and Consumer Choice,"
+Marketing Science, Vol. 4, #3, pp. 199-214.
+
+
+Description: Experimental Results of subjects' choices after reading the
+statements:
+Experiment 1:
+Mr. A was given tickets to lotteries involving the World Series. He won
+    $50 in one lottery and $25 in the other
+Mr. B was give a ticket to a single, larger lottery. He won $75.
+Who was happier?  Choice1=Mr. A, Choice2=Mr. B, Choice3=no difference
+
+Experiment 2:
+Mr. A received a letter from the IRS saying that he made a minor arithmetical
+   mistake on his tax return and he owed $100. He received a similar letter 
+   from his state income tax authority saying he owed $50. There were no
+   other repercussions from either mistake.
+Mr. B received a letter from the IRS saying that he made a minor arithmetical
+   mistake on his tax return and he owed $150. 
+   There were no other repercussions from the mistake.
+Who was more upset?  Choice1=Mr. A, Choice2=Mr. B, Choice3=no difference
+
+Experiment 3:
+Mr. A bought his first New York State lottery ticket and won $100. Also, in
+   a freak accident, he damaged the rug in his apartment and had to pay
+   the landlord $80.
+Mr. B bought his first New York State lottery ticket and won $20. 
+Who was happier?  Choice1=Mr. A, Choice2=Mr. B, Choice3=no difference
+
+Experiment 4: 
+Mr. A's car was damaged in a parking lot. He had to pay $200 to repair the
+   damage. The same day the car was damaged, he won $25 in the office
+   football pool.
+Mr. B's car was damaged in a parking lot. He had to pay $175 to repair the
+   damage.
+Who was more upset?  Choice1=Mr. A, Choice2=Mr. B, Choice3=no difference
+
+
+Variable names: 
+expt1
+expt2
+expt3
+expt4

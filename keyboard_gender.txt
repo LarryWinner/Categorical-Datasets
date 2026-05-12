@@ -1,0 +1,13 @@
+Dataset: keyboard_gender.dat
+
+Source: D. Rempel, A. Barr, D. Brafman, and E. Young (2007). 
+"The Effect of Six Keyboard
+Designs on Wrist and Forearm Postures," Applied Ergonomics Vol. 37, pp. 293-298.
+
+Description: Stated Preferences among 6 keyboards (1=CONV,2=LAP,3=CURVE,
+4=ELITE,5=ERGO,6=REVERGO) by male and female typists.
+
+
+Variables/Columns
+Gender   8   /* 1=F,2=M  */
+Keyboard Preference    16

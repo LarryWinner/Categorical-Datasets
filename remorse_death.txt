@@ -1,0 +1,16 @@
+Dataset:  remorse_death.csv
+
+Source: T. Eisenberg, S.P. Garvey, M.T. Wells (2001). "Forecasting Life 
+and Death: Juror Race, Religion, and Attitude Toward the Death Penalty,"
+The Journal of Legal Studies, Vol. 30, pp. 277-311.
+
+Description: Jurors view of defendant's remorse and first vote on
+sentencing (both ordinal):
+Remorse: Response to: "How well does 'sorry' describe the defendant?" 
+1=Not at all, 2=Not so well, 3=Fairly well, 4=Very well
+Jurors first vote:
+1=Life, 2=Undecided, 3=Death
+
+Variable names
+remorse
+jurVote 

@@ -1,0 +1,16 @@
+Dataset:  flood_lottery.csv
+
+Source: L. Page, D.A. Savage, B. Torgler (2014). "Variation in Risk 
+Seeking Behaviour Following Large Losses, A Natural Experiment,"
+European Economic Review, Vol. 71, pp. 121-131.
+
+Description: Experiment to determine whether people had suffered
+large real-world losses showed differences in risk taking than those
+who had not. Groups: People who had been affected by the 2011 flood
+of Brisbane Australia (n=94) and people not affected (n=107).
+Outcomes: Choice between Sure $10 and a scratch card valued at $10 but with
+maximum prize of $500000
+
+Variables
+lottery   (1=$10, 2=scratch card)
+flood     (1=unaffected, 2=affected)

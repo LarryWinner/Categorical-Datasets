@@ -1,0 +1,21 @@
+Dataset: blues_hand.csv
+
+Source: A.M. Cohen (1996). "The Hands of Blues Guitarists," American Music,
+Vol. 14, #4, pp. 455-479.
+
+Description: Location, Date of Birth, hand posture, and thumb style
+for 93 blues guitarists born between 1874 and 1940.
+
+Regions:   1=East, 2=Delta, 3=Texas
+Years:     0=Pre-1/1/1906,   1=Post 1/1/1906
+Hand Postures: 1= Extended, 2= Stacked, 3=Lutiform
+Thumb Styles:  1=Alternating, 2=Utility, 3=Dead
+
+Variable names
+name   
+state  
+birthYr   (Year of Birth)
+post1906    (1 if Post 1906, 0 if not) 
+region       
+handPost
+thumbSty 

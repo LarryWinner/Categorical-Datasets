@@ -1,0 +1,25 @@
+Dataset: productliability_award.csv
+
+Source: R.L. Culp Jr., and D. Pollage (2002). "The Rhetoric of Strict 
+Products Liability versus Negligence: An Empirical Analysis,"
+New York University Law Review, Vol. 77, #4, pp. 874-961.
+
+Description: Results of experiment with jurors being exposed to:
+Judge's Instruction: Strict Liability/Negligence/None
+Oral Arguments: Yes/No
+All jurors hear facts of case.
+Response: Award to plaintiff:  Yes/No
+Jury Conditions:
+1: Strict Liability/Oral Argument
+2: Negligence/Oral Argument
+3: No Instructions/No oral arguments (Control)
+4: Strict Liability/No Oral Argument
+5: Negligence/No Oral Argument
+
+Variables:
+Jury  (1-6)
+juror (id - only used for ease of entering response)
+strict liability   (1=Yes, 0=No)
+negligence    (1=Yes, 0=No)
+oralArg       (1=Yes, 0=No)
+award         (1=Yes, 0=No)

@@ -1,0 +1,15 @@
+Dataset:  crop_circle.csv
+
+Source www.cropcirclesonline.com
+
+Description: Reported crop circles for 9 countries between 2004-2010.
+
+Variables (labels)
+
+Year   (Year)
+Month of Year   (Month)
+Country      (Country)
+Field Type    (Type)
+wheat indicator   (wheat)
+barley indicator  (barley)
+other indicator   (other) 

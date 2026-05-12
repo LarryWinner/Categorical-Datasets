@@ -1,0 +1,18 @@
+Dataset: mtv_gen_ad.dat
+
+Source: N. Signorielli, D. McLeod, E. Healy (1994). "Geender Sterotypes in
+MTV Commercials: The Beat Goes On," Journal of Broadcasting and Electronic
+Media, Vol. 38, pp. 91-102
+
+Description: Gender by Body Type, Attractiveness, Clothing, and
+Object of Gaze for a sample of MTV ads.
+Body Type: 1=Out of Shape, 2=Average, 3=Very Fit
+Attractiveness: 1=Unattractive, 2=Neither, 3=Attractive, 4+Very Attractive
+Clothing: 1=Neutral, 2=Somewhat sexy, 3=Very Sexy
+Object of Gaze:   1=Does not appear,  2=Appears
+
+Variables/Columns
+Appearance Type   8   /* 1=Body Type, 2=Attractiveness, 2=Clothing, 4=Gaze */
+Appearance Type level   16   /* See Above  */
+Gender     24   /* 1=Male, 2=Female  */
+Frequency   30-32

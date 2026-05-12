@@ -1,0 +1,19 @@
+Datasets: nepal_earthquake1.csv    nepal_earthquake2.csv
+
+Source: M. Shakya, C.K. Kawan, A.K. Gaire, S. Duwal (2021). "Post-Earthquake Damage Assessment of
+Traditional Masonry Buildings: A Case Study of Bhaktapur Municipality Following 2015
+Gorkha (Nepal) Earthquake," Engineering Failure Analysis Vol. 123, 105277.
+
+Description:
+Contingency tables for Damage Grade vs Structure Type (Dataset 1) and Damage Grade vs Storey (Dataset 2):
+
+Damage Grades: 0=None, 1=Slight Damage, 2=Moderate Damage, 3=Heavy Damage, 4=Very Heavy Damage, 6=Destruction
+Structure Type: 1=Reinforced cement concrete (RCC), 2=Masonry
+Storey (Floor): 1:6
+Authors conducted Chi-Square tests for independence.
+
+Variable Names:
+damage  (both datasets)
+structure (dataset 1)
+storey (dataset 2)
+

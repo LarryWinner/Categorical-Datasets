@@ -1,0 +1,32 @@
+Dataset: flow_ww.dat
+
+Source: C.D. Jones, S.J. Hollenhorst, F. Perna, S.Selin (2000).
+"Validation of the Flow Theory in an On-Site Whitewater Kayaking Setting,"
+Journal of Leisure Research, Vol.32, #2, pp.247-261.
+
+Description: Frequency of Respondents within 4 Channels (Flow, Anxiety,
+Boredom, Apathy) at 8 Measurement Stages of a Whitewater Rafting Trip.
+
+Channels:
+1 = Flow  ==> perceived challenge and skill above individual's average
+2 = Anxiety ==> perceived challenge is higher than skill
+3 = Boredom  ==> perceived skill is higher than challenge
+4 = Apathy  ==> perceived challenge and skill below individual's average
+
+Stages:
+1=put-in (difficulty = n/a)
+2=flatwater (Class I)
+3=Fossil Falls (Class II)
+4=New Wave (Class III)
+5=Big Nasty (Class V)
+6=High Falls  (Class V)
+7=Pete Morgan's (Class V)
+8=take-out (difficulty=n/a)
+
+Authors did chi-squrae for 1) all 8x4 and 2) collapsing: (1,8),(2-4),(5-7)
+
+Variables/Columns
+Stage      8
+Channel   16
+Count    23-24
+

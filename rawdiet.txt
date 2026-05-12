@@ -1,0 +1,13 @@
+Dataset: rawdiet.dat
+
+Source: M.L. Dansinger, J.A. Gleason, J.L. Griffith, H.P. Selker, E.J. 
+Schaefer (2005). "Comparison of the Atkins, Ornish, Weight Watchers,
+and Zone Diets for Weight Loss and Heart Disease Reduction,"
+JAMA, Vol. 293, #1, 43:53.
+
+Description: Completion/Fail to complete results for 160 subjects
+(40 per diet). 
+
+Variables/Columns:
+Diet   8  /* 1=Atkins, 2=Zone, 3=Weight Watchers, 4=Ornish */
+Completion  16   /* 1=Yes, 0=No */

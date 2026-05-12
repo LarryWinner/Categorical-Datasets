@@ -1,0 +1,11 @@
+Dataset:  colorshirt.dat
+
+Source: N. Gueguen and C. Jacob (2013). "Color and Cyber-Attractiveness: Red
+Enhances Men's Attraction to Women's Personal Ads," Color Research and
+Application, Vol. 38, #4, pp. 309-312.
+
+Description: E-mail ads on online personal ad site from men for women
+posing in 6 shirt colors (1=black, 2=white, 3=red, 4=yellow, 5=blue,
+6=green). Each woman posed and was viewed online in each shirt color.
+Authors tested for multinomial distribution, with each p=1/6.
+

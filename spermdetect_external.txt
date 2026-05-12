@@ -1,0 +1,17 @@
+Dataset: spermdetect_external.dat
+
+Source: S. Sathirareuangchai, R. Phobtrakul, L. Phetsangharn, K. Srisopa,
+S. Petchpunya (2015). "Comparative Study of Spermtozoa Detection Using the
+Genital Swab versus Bedside Smear Slide Technique in Sexual Assault
+Patients," Journal of Forensic and Legal Medicine, Vol. 35, pp. 69-72
+
+Description:
+Results of External tests for sperm for 2 methods of testing,
+based on 724 subjects. For each test (on the same subjects), sperm
+was classified as present or absent.
+
+Variables/Columns
+Genital Swab Test Result  8   /* 1=Present, 0=Absent  */
+Slide Smear Test Result    16  /*   "          "      */
+
+

@@ -1,0 +1,13 @@
+Dataset: cogdiss_war.dat
+
+Source: A. Buckmaster and K. McKenzie (2009). "Cognitive Dissonance
+and Students' Opinions on the Invasion and Occupation of Iraq,"
+Defence Studies, Vol. 9, #1, pp. 118-128
+
+Description: Results of 99 students responses to 2 questions on survey:
+Q14: Do you agree with the US' occupaion of Iraq?
+Q35: Was the US wrong to occupy Iraq?
+
+Variables/Columns
+Q14 Response  8  /* 1=Yes, 0=No  */
+Q35: Response   16  /* 1=Yes, 0=No  */

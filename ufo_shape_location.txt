@@ -1,0 +1,16 @@
+Dataset: ufo_location_shape.csv
+
+Source: www.uforesearchdb.com
+
+Description: UFO sightings in the US (3437 events). Date, Shape,
+Location, State, Country, and  Source.
+
+Variables/Labels
+Event.Date
+Shape
+Location
+State 
+Country 
+Source    (NUFORC = Nationaol UFO Reporting Center, MUFON = Mutual UFO Network)
+USA     (1=USA, 0=Not USA)
+weekday  (1=Sunday, ..., 7=Saturday)

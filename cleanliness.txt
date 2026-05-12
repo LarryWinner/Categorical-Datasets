@@ -1,0 +1,19 @@
+Dataset: cleanliness.dat
+
+Source: J.V. Fayard, A.K. Bassi, D.M. Bernstein, B.W. Roberts (2009).
+"Is Cleanliness Next to Godliness? Dispelling Old Wives' Tales:
+Failure to Replicate Zhong and Liljenquist (2006)," Journal of Articles
+in Support of the Null Hypothesis, Vol. 6, #2.
+
+Description: Experiment conducted where people were assigned to either
+describe an unethical deed or ethical deed (treatment) and whether
+afterwards they chose a gift of a cleaning wipe or a wooden pencil.
+Also has simulated conscientousness scores to match mean and SD for
+the wipe choosers and pencil choosers on each of 2 scales (CAC and CSC).
+Univariate analyses only on conscientiousness scores.
+
+Variables/Columns
+Treatment   8   /* 1=Ethical   2=Unethical  */
+Gift Choice  16   /* 1=Hand Wipe, 2=Wood Pencil  */
+CAC Score   18-24
+CSC Score   26-32

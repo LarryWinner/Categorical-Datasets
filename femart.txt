@@ -1,0 +1,11 @@
+Dataset: femart.dat
+
+Source: T.H. Bradford and L. Idleman (1991), "Feminist Art Theory
+in Atlanta: The Politcal Climate", Art Journal, Volume 50, #2, pp 14-18.
+
+Description: Education Level and Use of Feminist Art Theory in Work
+Among Memebers of Atlanta art community.
+
+Variables/Columns:
+Education  8 /* 1=HS, 2=Bacheor's, 3=Master's, 4=Ph.D.
+Use of Feminist Art Theory   16  /* 1=No, 2=Somewhat, 3=Yes

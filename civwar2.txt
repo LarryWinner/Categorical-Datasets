@@ -1,0 +1,19 @@
+Dataset:  civwar2.dat
+
+Source: C. Lee (1999). "Selective Assignment of Military Positions in the
+Union Army: Implications for the Impact of the Civil War", Social Science
+History, Vol. 23, #1, pp 67-97.
+
+Description: Mortality and Demographic data for 45 Ohio Companies
+in the Union Army
+
+Variables/Columns
+
+Company  1-4   /*  String
+Number of soldiers  8-10 
+enlistment year of company   13-16
+total deaths   20-21
+deaths to illness    25-26
+deaths to injury   31
+percent farmers    34-38
+percent foreign    41-45

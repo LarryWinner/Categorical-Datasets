@@ -1,0 +1,31 @@
+Dataset:  femrole.dat
+
+Source: K. Kammeyer (1964). "The Feminine Role: An Analysis of Attitude 
+Consistency", Journal of Marriage and the Family, Vol. 26, #3, pp.295-305.
+
+Description: Women classified based on attitudes toward female personality
+traits, Feminine Role Behavior, Numbers of friends, and dates.
+
+Q's on Role Behavior Scale:
+In marriage, major responsibility of wife is to keep husband and kids happy
+Mother should prepare daughter for roles of being wife is very important
+Husband should make major decisions
+For college girl, social poise is more important than GPA
+English is better major for college girl than economics
+
+Q's on Personality Traits Scale:
+Women more emotional than men
+Men are better leaders
+Men are more aggressive
+women more sympathetic
+women more moral
+men better at reasoning logically
+women more artistic
+men more intellectual
+
+Variables/Columns:
+Female personality trait score   8  /* 1=Modern, 2=Traditional  */
+Feminine Role Behavior Score   16  /* 1=Modern, 2=Traditional  */
+Friends     24  /* 1=Low Number,  2=High Number  */
+Dates       32  /* 1=Low Number  2=High Number  */
+Count      39-40

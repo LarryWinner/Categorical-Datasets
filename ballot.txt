@@ -1,0 +1,13 @@
+Dataset:   ballot.dat
+
+Source: R. Darcy (1986). "Position Effects with Party Column Ballots",
+The Western Political Quarterly, Vol. 39 #4, pp648-662.
+
+Description: Study to determine whether ballot ordering is associated
+with voting choice for presidential candidates.
+
+Variables/Columns:
+
+Order  5-8  /* DRL= Democrat/Republican/Liberterian  */
+Party Choice  14-16  /* DEM, REP, LIB  */
+Number of cases  22-24

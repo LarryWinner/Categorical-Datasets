@@ -1,0 +1,13 @@
+Dataset:  settlewar.dat
+
+Source:  iR. Licklider (1995). "The Consequences of Negotiated Settlements
+in Civil Wars, 1945-1993", American Political Science Review,
+Vol. 89, #3, pp681-690
+
+Description: Termination of civil wars and ensuing violence
+
+Variable/Columns
+
+Termination of War  1  /*  1=Military Victory,  2=Negotiated Settlement
+Violence Following Termination  3  /* 1=None,  2=Yes
+Number of cases (wars)   5-6

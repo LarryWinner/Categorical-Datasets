@@ -1,0 +1,13 @@
+Dataset:  sars1.dat
+
+Source: H-N. Leung, et al. (2004). "Investigational Use of Ribavirin
+in the Treatment of Severe Acute Respiratory Syndrome, Singapore, 2003",
+Tropical Medicine and International Health, Vol.9, #8, pp923-927.
+
+Description: Retrospective Study of Treatment with Ribavirin and the
+survival of patients with SARS.
+
+Variables/Columns
+
+Ribavirin   8  /* 0=No Ribavirin   1=Ribavirin  */
+Death    16   /*  0=No Death   1=Death  */

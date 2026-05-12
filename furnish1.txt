@@ -1,0 +1,13 @@
+Dataset:  furnish1.dat
+
+Source: S.P. Schoeler (1979), "Form, Function, and Meaning in the Use of
+Fabric Furnishings: A Philadelphia Case Study, 1700-1775", 
+Winterthur Portfolio, Vol. 14, pp.25-40.
+
+Description: Possession of Fabric Upholstered Furniture for household
+by year.
+
+Variables/Columns:
+
+Period  8  /* 1=1700-1704, 2=1725-27  3=1750-51  4=1775
+Upholstery Indicator   16   /*  1=Present, 0=Absent

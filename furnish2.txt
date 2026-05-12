@@ -1,0 +1,13 @@
+Dataset:  furnish2.dat
+
+Source: S.P. Schoeler (1979), "Form, Function, and Meaning in the Use of
+Fabric Furnishings: A Philadelphia Case Study, 1700-1775", 
+Winterthur Portfolio, Vol. 14, pp.25-40.
+
+Description: Possession of Fabric Table Coverings for household
+by household valuation.
+
+Variables/Columns:
+
+Household Value (pounds)  8  /* 1= <20, 2=20-39, 3=40-79, 4=80-119, 5=120-199, 6=>=200
+Table Furnishings Indicator   16   /*  1=Present, 0=Absent

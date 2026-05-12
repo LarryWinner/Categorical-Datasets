@@ -1,0 +1,12 @@
+Dataset: avalance_survive.csv
+
+Source: H. Brugger, H.J. Etter, B. Zweifel, et al. (2007). "The Impact of
+Avalance Rescue Devices on Survival," Resucitation, Vol. 75, pp. 476-483
+
+Description: Survival of Avalanche by nation and amount buried.
+Authors consider various other variables in analysis
+
+Variable Names:
+country   (1=Switzerland, 2=Austria)
+buried  (1=Completely, 2=Partial/Not)
+survived   (1=Yes, 0=No)

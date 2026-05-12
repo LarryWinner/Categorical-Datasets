@@ -1,0 +1,14 @@
+Dataset:  ankleshoe.dat
+
+Source: C.K. Curtis, K.G. Laudner, T.A. McLoda, S.T. McCaw (2008). "The Role
+of Shoe Design in Ankle Sprain Rates Among Collegiate Basketball Players,"
+Journal of Athletic Training, 43(3) pp. 230-233
+
+Description: Incidence of ankle sprains among basketball players wearing
+cushioned column and non-cushioned column shoes and wearing of ankle brace and
+tape. Exposure indicates 1 athlete's participation in one game or practice.
+
+Variables/Columns
+Shoe Type   8  /* 1=Cushioned, 2=Non-cushioned */
+Protection  16  /* 1=Braced, 2=Taped, 3=Both Braced and Taped, 4=Neither */
+Ankle Sprain/* 1=Yes, 0=No  */

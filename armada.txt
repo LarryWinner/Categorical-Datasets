@@ -1,0 +1,18 @@
+Dataset:  armada.dat
+
+Source: Armando da Silva Saturnino Monteiro (2001). "Decline and Fall
+of Portuguese Seapower 1583-1663", Journal of Military History
+Vol. 65, #1, pp9-20.
+
+Description: Outcomes of Naval Battles Between Portuguese
+and Dutch/British ships 1583-1663
+
+Variables/Columns
+Battle 1-28
+Year  31-34
+Portuguese ships  41-42
+Dutch ships   49-50
+English shios   57-58
+Ratio of Portuguese to Dutch/British ships  62-66
+Spanish Involvement   74  /* 1=Yes, 0=No   */
+Portuguese outcome   81-82  /* -1=Defeat, 0=Draw, 1=Victory */
